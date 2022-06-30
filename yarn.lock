@@ -1565,7 +1565,7 @@
     lodash "4.17.21"
     umzug "3.1.1"
 
-"@strapi/design-system@1.2.0":
+"@strapi/design-system@1.2.0", "@strapi/design-system@^1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@strapi/design-system/-/design-system-1.2.0.tgz#d000cebbc4f6bb296544369346c3a1fec46945d1"
   integrity sha512-8pFSWQwxmM1kazXX07xjqeJRmZyiaXzo+jfFA33JtZqyA8z6GULstGM9DrwDlxZQpGZMltJDugBvHrwSIAzgLg==
